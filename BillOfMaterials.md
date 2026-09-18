@@ -2,4 +2,5 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|Total: |0|$0.00| |
+|Mountable XT60 Connector|1|$1.00|[Amazon](https://www.amazon.com/dp/B0D637RGC4?tag=maslowcnc01-20)|
+|Total: |1|$1.00| |
