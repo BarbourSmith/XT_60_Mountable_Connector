@@ -1010,8 +1010,8 @@
     },
     {
       "atomType": "Circle",
-      "x": 0.4,
-      "y": 0.7,
+      "x": 0.1,
+      "y": 0.8,
       "uniqueID": "id-1088431",
       "ioValues": [
         {
@@ -1023,8 +1023,8 @@
     },
     {
       "atomType": "Extrude",
-      "x": 0.5,
-      "y": 0.7,
+      "x": 0.3,
+      "y": 0.8,
       "uniqueID": "id-1088434",
       "ioValues": [
         {
@@ -1040,7 +1040,7 @@
     },
     {
       "atomType": "Move",
-      "x": 0.6,
+      "x": 0.5,
       "y": 0.8,
       "uniqueID": "id-1088438",
       "ioValues": [
@@ -1065,7 +1065,7 @@
     },
     {
       "atomType": "Move",
-      "x": 0.6,
+      "x": 0.4,
       "y": 0.6,
       "uniqueID": "id-1088444",
       "ioValues": [
